@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+/* xxx nav xxx */
+
+.cont1 {
+    padding: 0 2rem;
+}
+
+.space {
+    padding-right: 62rem;
+}
+
+/* xxx card xxx */
+
+.cont2 {
+    margin: 2rem;
+}
+
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 100%;
+}
